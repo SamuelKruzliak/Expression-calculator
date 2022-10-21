@@ -1,0 +1,7 @@
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\bin\Debug\Expression Calculator.exe.config
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\bin\Debug\Expression Calculator.exe
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\bin\Debug\Expression Calculator.pdb
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\obj\Debug\Expression Calculator.csproj.AssemblyReference.cache
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\obj\Debug\Expression Calculator.csproj.CoreCompileInputs.cache
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\obj\Debug\Expression Calculator.exe
+C:\Users\samko\source\repos\Expression Calculator\Expression Calculator\obj\Debug\Expression Calculator.pdb
